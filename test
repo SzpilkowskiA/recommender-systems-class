@@ -1,0 +1,387 @@
+[33mcommit 7ac9c64022c73fca26afff3d1711e8b65f6928d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b645012 1cb152c
+Author: SzpilkowskiA <adaszp@st.amu.edu.pl>
+Date:   Thu Mar 30 17:13:30 2023 +0200
+
+    Merge remote-tracking branch 'upstream/master'
+    Lab_5
+
+[33mcommit 1cb152cae29dd64c4b5057f577c9445629a814b5[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 30 10:58:19 2023 +0200
+
+    Add lecture and class 5 - Amazon recommender, add project 1
+
+[33mcommit b645012ce8ff992ae7a8bde81c0b6528caef7f6a[m
+Merge: dd57ad9 be7c82a
+Author: SzpilkowskiA <adaszp@st.amu.edu.pl>
+Date:   Thu Mar 23 17:19:02 2023 +0100
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit dd57ad9651d566ade4f7e230c2697cae232abdfd[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SzpilkowskiA <adaszp@st.amu.edu.pl>
+Date:   Thu Mar 23 17:17:57 2023 +0100
+
+    lab_2
+
+[33mcommit be7c82ab8cb49d24f189b8e77046f017f88bb18e[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 23 10:55:04 2023 +0100
+
+    Add lecture and class 4 - content-based recommenders
+
+[33mcommit ef57ad26b09c05c6c131b7123689cdd4f7066733[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Wed Mar 15 00:21:56 2023 +0100
+
+    Add lecture and class 3
+
+[33mcommit 0f7a42513fcb055f4230b03f5c4de45953637bef[m
+Merge: 6acdc8b 9fbb44f
+Author: SzpilkowskiA <adaszp@st.amu.edu.pl>
+Date:   Thu Mar 9 17:28:12 2023 +0100
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 6acdc8b0d041ae1c07ec6fb396d0648a73cb0143[m
+Author: SzpilkowskiA <adaszp@st.amu.edu.pl>
+Date:   Thu Mar 9 17:18:52 2023 +0100
+
+    Lab 1
+
+[33mcommit 9fbb44f3541eb09963eae2938ff1b4a2e0d8f588[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Wed Mar 8 19:23:57 2023 +0100
+
+    Add lecture and class 2
+
+[33mcommit de704faaa5f58883a994ead1171e281f0189471a[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Sun Feb 26 22:51:43 2023 +0100
+
+    Prepare the repository for the 2022/23 semester
+
+[33mcommit c75487f764b6232e072e5785cafc8b17f57be392[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Jun 10 00:10:18 2022 +0200
+
+    Add class 13 - YouTube recommender
+
+[33mcommit 4995b798d669e6884b6b96deecaf4dc84760a9c5[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri May 27 00:48:19 2022 +0200
+
+    Add lecture 13-14 YouTube recommender, add project 2
+
+[33mcommit 5b45b2ce97648e528eccdb4e5f1cb5dc38e1c48e[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri May 20 00:58:38 2022 +0200
+
+    Remove cell outputs from class 12 notebook
+
+[33mcommit de42277aebc86f20897bcc1e83826c1254f47046[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri May 20 00:56:37 2022 +0200
+
+    Add lecture and class 12 - Neural Collaborative Filtering
+
+[33mcommit f8cc99f03f2838f1027ae3f4d42a71212f11f42c[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu May 12 23:37:38 2022 +0200
+
+    Add lecture and class 11 - PyTorch
+
+[33mcommit 7d125e59f530dec7a9d752b5d51640d65cbb41c1[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri May 6 01:03:46 2022 +0200
+
+    Add lecture and class 10 - neural networks
+
+[33mcommit 2fc14c5c16410cf7e64416ff4dd3c15948aaa820[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Apr 29 00:57:23 2022 +0200
+
+    Add class 8 and lecture 9 (Netflix recommender notebook, least squares and ALS OneNote)
+
+[33mcommit 04872b3a0cd79a6fb0aa529397ed5214be535e07[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Apr 28 23:27:06 2022 +0200
+
+    Add lecture 8 - Netflix recommender papers
+
+[33mcommit a9c2ac8743c0340b3e12866659693da73856e59c[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Apr 28 23:21:06 2022 +0200
+
+    Fix fix_date_to method in project 1
+
+[33mcommit fb343bf93328656c01021cce4a2968840c0a2a70[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Tue Apr 12 22:00:31 2022 +0200
+
+    Add project 1
+
+[33mcommit be21267df7b3d0c531802da5635048415e8d4398[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Apr 7 23:17:04 2022 +0200
+
+    Add lecture and class 7 - dimensionality reduction, matrix factorization, optimization
+
+[33mcommit 4939028e72995bbc4e2009b495f4b02ba3a0d408[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Apr 1 00:30:49 2022 +0200
+
+    Fix class 6
+
+[33mcommit 7678da2beba0a8d57b98e48daab8e2973a0481c8[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Apr 1 00:25:42 2022 +0200
+
+    Add lecture and class 6 - neighborhood methods, add probability distributions one note
+
+[33mcommit 50a9ae3a188fbd27a87d7c5c142ddb4376f8145c[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 25 00:12:29 2022 +0100
+
+    Make final fixes in lecture and class 5
+
+[33mcommit 22e1370001b83b06ae2f0559ea723721beb45cfd[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 24 23:04:27 2022 +0100
+
+    Add lecture and class 5 - Amazon recommender
+
+[33mcommit e1d800c32a6c6b9694e5eb64930e8564369b6452[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 24 11:02:53 2022 +0100
+
+    Fix lecture 4 notebook, fix basic_recommenders and basic_content_based_recommenders
+
+[33mcommit d6b09664031d7cbef12461928998cace265d5ba1[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 18 14:26:38 2022 +0100
+
+    Fix class 4 notebook
+
+[33mcommit 0cc8b652d6a00ad305eb2fec06ce119d55aeb65b[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 18 11:05:11 2022 +0100
+
+    Fix class 4 notebook
+
+[33mcommit f3a39e5e76b398950848aa0c6ccae9f6865b69ce[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 18 06:12:01 2022 +0100
+
+    Add class 4
+
+[33mcommit f946b088b2549ea26f1a2c830d11c2180558dd7f[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 17 09:22:29 2022 +0100
+
+    Fix minor issues in recommenders and evaluation and testing files
+
+[33mcommit 2934ff76238d0a12ab2104df257b1e6eb3122861[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 11 01:15:06 2022 +0100
+
+    Add lecture and class 3, add basic content-based recommenders
+
+[33mcommit dcf2092cb230efecef452829e9893169c05a80bf[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 3 23:12:39 2022 +0100
+
+    Use lowercase names
+
+[33mcommit 2e9f077871920e552a6ff69794e73472dc88dadd[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 3 23:04:58 2022 +0100
+
+    Add lecture and class 2
+
+[33mcommit e68e53c38c086df6d5c0b0c01c0cb90d10df2034[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Feb 25 00:18:18 2022 +0100
+
+    Clean the repo for the 2021-22 summer semester
+
+[33mcommit e7f4075c84b2bc527ec7ee5dcb7297cf83502b78[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Tue Jun 22 15:52:56 2021 +0200
+
+    Fix lack of minus in YT onenote log loss
+
+[33mcommit 95030b1965f3b6a7b0781eaaef3f85e1ebee824f[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Sat Jun 19 11:21:55 2021 +0200
+
+    Add YouTube paper onenote
+
+[33mcommit 8b16ae42475737873d7f127f55ad5200c23ec430[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Sun Jun 13 14:29:01 2021 +0200
+
+    Add Generalized Matrix Factorization notebook
+
+[33mcommit fdab6d5b71609395255beb6c039ef3f0c5c57863[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Sat Jun 12 21:25:52 2021 +0200
+
+    Make little fixes to project 2
+
+[33mcommit bbf39207d5eaac39b62f9408e2f6580eda6f370b[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Sat Jun 12 21:13:02 2021 +0200
+
+    Add project 2 and separate netflix recommender class
+
+[33mcommit 3142e665bba4a2492f9af7d0943528a31b867401[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Wed Jun 9 22:44:49 2021 +0200
+
+    Add Neural Collaborative Filtering paper
+
+[33mcommit 8fb3f337ee7f9b7693e9b9ad9e00092d1adf9d24[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Sat Jun 5 23:55:30 2021 +0200
+
+    Add proper class 12 pytorch notebook
+
+[33mcommit 0573316ff570678c669c0a4d9b3081c61824b2c2[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri May 28 11:47:09 2021 +0200
+
+    Fix class 11 onenote
+
+[33mcommit 292fc1a2b240e716390a0ff0e3cada3039339c8c[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri May 28 09:56:17 2021 +0200
+
+    Add neural networks class 11 onenote and class 12 pytorch notebook
+
+[33mcommit 37550269e308293ca813b4420284de40936e8bfc[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Mon May 17 09:36:01 2021 +0200
+
+    Add new material in the optimization onenote, fix some mistakes in class 7 and 8 onenotes
+
+[33mcommit 606b41c68d2fafa7b24ef7cc62b69c4efb6d1f59[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Tue May 4 22:37:16 2021 +0200
+
+    Add Netflix papers with highlights
+
+[33mcommit 1e72899ede2e5f9e30d370278adf5c031b703648[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Mon May 3 12:23:19 2021 +0200
+
+    Fix project 1 issues
+
+[33mcommit 616151bf70f9aab92a5bbcaa77a20500748ae53a[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Mon May 3 12:20:58 2021 +0200
+
+    Fix isinstance bug in testing methods and handle the case of zero recommendations in evaluation measures
+
+[33mcommit 046730047ed7b41afeca2094df751a141f8df496[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Apr 30 20:02:35 2021 +0200
+
+    Add OneNote notes for class 6, 7 and 8
+
+[33mcommit d3a3ceaa151418b2717e94b2849ccaa55fd1f383[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Tue Apr 27 22:50:13 2021 +0200
+
+    Add project 1
+
+[33mcommit 61b94944598ac4d10896383261778fed1b89c169[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Apr 16 07:59:09 2021 +0200
+
+    Add class 6 - neighborhood based recommenders
+
+[33mcommit 640de54c00925b7f13cf45cdae861c892f886b5a[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Apr 15 22:09:40 2021 +0200
+
+    Add separate modules with recommenders, testing schemes and evaluation
+
+[33mcommit 9cdd14ac9407c59657fea53e14b24b9d1a33f587[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Wed Apr 14 21:59:51 2021 +0200
+
+    Add class 5 notebook
+
+[33mcommit 2ddb6dc4e1dc8009a4e290044a932c4cd5c4d673[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Apr 9 11:55:46 2021 +0200
+
+    Add class 4 OneNote note and class 5 - Amazon recommender - OneNote paper walkthrough
+
+[33mcommit edc6b38612b97c1d4524519989139dbf029ff37b[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 19 11:55:12 2021 +0100
+
+    Fix typos in class 3 notebook
+
+[33mcommit 44117d659ffc3932a1bb7ba626b309322fab0635[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 19 08:59:19 2021 +0100
+
+    Add class 3 notebook
+
+[33mcommit 76d200b9aaeb2887d4206fdfe9447904ae04b435[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 18 19:14:48 2021 +0100
+
+    Fix task 16 description
+
+[33mcommit ba4b60fb3dbd049423b6484eb0533e3d7932f7b2[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 18 19:11:46 2021 +0100
+
+    Add environment.yml and instruction regarding it, add before class instruction to pull new code from the original repository
+
+[33mcommit 66e92d3dd047683cd15e18fa6ab4b82a451575d3[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 12 09:14:14 2021 +0100
+
+    Add new examples to class 2
+
+[33mcommit 667777cab12cc421ce52e81045f84029e4a34dab[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 12 02:40:08 2021 +0100
+
+    Add MovieLens and Steam datasets
+
+[33mcommit 2a01c3f6e8da53922679fc72e7f3d18469356a2f[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Fri Mar 12 02:38:06 2021 +0100
+
+    Add class 2 numpy pandas
+
+[33mcommit 7b9621430ab83a90a97650432dac27d5a1f91b91[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Thu Mar 11 00:24:56 2021 +0100
+
+    Add jupyter_test notebook
+
+[33mcommit 4a9289448b281d06ea57f88e9108c3aa46fedfa8[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Wed Mar 10 23:50:38 2021 +0100
+
+    Fix readme.txt
+
+[33mcommit 0b2a11c83d0c7fb7ee9c2bab09edb412ba67a4ac[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Wed Mar 10 23:24:13 2021 +0100
+
+    Add Git Bash screen
+
+[33mcommit 4265b3644146fe326be37ddf123f1a88f8d259ca[m
+Author: Piotr Zioło <ziolo.piotr@gmail.com>
+Date:   Wed Mar 10 23:22:05 2021 +0100
+
+    Add readme and git bash configuration files
